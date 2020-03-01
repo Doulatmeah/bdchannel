@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://live.robitvplus.com/hls/H0_rIpDIVe-yLiQw1pimqA/1576769862/sangsad_tv_hi/index.m3u8
