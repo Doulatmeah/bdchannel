@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://live.robitvplus.com/hls/9T0YCvdR1aZUFLvs-XLbqw/1576769798/btv_world_hi/index.m3u8
